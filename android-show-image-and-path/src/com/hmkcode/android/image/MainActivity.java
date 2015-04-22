@@ -18,6 +18,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
 public class MainActivity extends Activity implements OnClickListener {
 
 	TextView txtSDK;
